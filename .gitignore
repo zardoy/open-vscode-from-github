@@ -1,0 +1,7 @@
+build
+dist
+node_modules
+.vscode-test/
+*.log
+*LocalExperiment.ts
+.DS_Store

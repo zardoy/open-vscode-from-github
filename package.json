@@ -1,0 +1,15 @@
+{
+  "name": "open-vscode-from-github",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zardoy/open-vscode-from-github.git",
+  "author": "Vitaly Turovsky <vital2580@icloud.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@zardoy/xo-config": "^0.0.6",
+    "esbuild": "^0.12.18",
+    "web-ext": "^6.2.0",
+    "xo": "^0.43.0"
+  }
+}

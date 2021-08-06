@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "Open via VSCode in GitHub",
+    "version": "0.0.1",
+
+    "default_locale": "en",
+    "description": "Adds Open via VSCode button to GitHub repositories, which clones or opens existing folder",
+
+}
